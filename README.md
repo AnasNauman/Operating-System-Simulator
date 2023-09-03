@@ -9,7 +9,7 @@ Implements the following CPU Scheduling algorithms
 Implements 3 queues; each queue will utilize a different scheduling
 algorithm.  
 
-1^st^ queue will implement priority scheduling, 2^nd^ will implement Round Robin and 3^rd^ queue will implement Shortest Remaining Job First.  
+1st queue will implement priority scheduling, 2nd will implement Round Robin and 3rd queue will implement Shortest Remaining Job First.  
   
 
 Starvation and aging cases are handled.
@@ -18,7 +18,7 @@ Starvation and aging cases are handled.
 Implements 3 queues; each queue will utilize a different scheduling
 algorithm.  
 
-1^st^ queue will implement First Come First Serve, 2^nd^ will implement Shortest Job First and 3^rd^ queue will implement Round Robin with Shortest Remaining Job First.  
+1st queue will implement First Come First Serve, 2nd will implement Shortest Job First and 3rd queue will implement Round Robin with Shortest Remaining Job First.  
   
 
 Starvation and aging cases are handled.
